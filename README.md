@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gustavo-Ruby
-- 👀 I’m interested in extreme sports!!
+- 👀 I’m interested in to develop
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on development of the programming universe
 - 📫 How to reach me via email and LinkedIn
